@@ -1,0 +1,9 @@
+git version 2.55.0.windows.5
+Python 3.12.10
+cmake version 4.4.3
+GNU Make 3.81
+arm-none-eabi-gcc.exe (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) 14.2.1 20241119
+code 1.140.0
+picotool v2.3.0 (Windows, GNU-16.1.0, Release)
+pico-sdk 2.3.0
+PICO_SDK_PATH=C:\Users\Altma\Desktop\Dop_education\MIPT_Antlab_MKA\pico-sdk
